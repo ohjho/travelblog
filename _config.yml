@@ -3,8 +3,8 @@ title: Samsara
 subtitle: by Véro + John
 email: youremailaddress@gmail.com
 description: Travel adventures and field notes of <br /> Véro + John.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "ohjho.github.io/travelblog" # the base hostname & protocol for your site
+baseurl: "/travelblog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
